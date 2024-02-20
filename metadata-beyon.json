@@ -1,4 +1,4 @@
 {
-  "versionCode": 4,
-  "note": "Fix Cards clipped at the top. Set kyc status to success for demo."
+  "versionCode": 5,
+  "note": "TB-77: Fix other UI feedbacks"
 }
