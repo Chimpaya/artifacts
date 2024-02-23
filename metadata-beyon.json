@@ -1,4 +1,4 @@
 {
-  "versionCode": 6,
-  "note": "Add signon token api to i2c card."
+  "versionCode": 7,
+  "note": "Fix expense detail crashing."
 }
