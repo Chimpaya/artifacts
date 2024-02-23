@@ -1,4 +1,4 @@
 {
-  "versionCode": 5,
-  "note": "TB-77: Fix other UI feedbacks"
+  "versionCode": 6,
+  "note": "Add signon token api to i2c card."
 }
