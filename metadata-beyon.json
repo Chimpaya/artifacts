@@ -1,4 +1,4 @@
 {
-  "versionCode": 9,
-  "note": "Reduce app icon size"
+  "versionCode": 10,
+  "note": "TB: Add loader when loading I2C functions"
 }
