@@ -1,4 +1,4 @@
 {
-  "versionCode": 10,
-  "note": "TB: Add loader when loading I2C functions"
+  "versionCode": 11,
+  "note": "Fix signon issue. Add card number and nicknam"
 }
