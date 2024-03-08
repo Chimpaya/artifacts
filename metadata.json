@@ -1,4 +1,4 @@
 {
-  "versionCode": 97,
-  "note": "TB-1: Fix failed KYC stuck on the Checking screen"
+  "versionCode": 98,
+  "note": "TM-164, TM-204, TM-202, TM-205, TM-206: Fix insight crash. Fix missing country code. Fix UI feedbacks. Replace Biometric icon."
 }
