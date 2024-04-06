@@ -1,4 +1,4 @@
 {
-  "versionCode": 42,
-  "note": "TB: transaction_datetime, 3 decimals places, hide currency filter"
+  "versionCode": 43,
+  "note": "TB: Request fund card dropdown fix"
 }
