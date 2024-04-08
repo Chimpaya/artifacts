@@ -1,4 +1,4 @@
 {
-  "versionCode": 44,
-  "note": "TB: Temporary fix for insight screen(removed currency filter)"
+  "versionCode": 45,
+  "note": "TB-210, Remove retry button. Make I2c reveal card fullscreen"
 }
