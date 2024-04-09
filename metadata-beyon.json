@@ -1,4 +1,4 @@
 {
-  "versionCode": 45,
-  "note": "TB-210, Remove retry button. Make I2c reveal card fullscreen"
+  "versionCode": 47,
+  "note": "9/4: Balance update, Card balance update, Fix expense filter UI bug, Update Jumio Max retry Text"
 }
