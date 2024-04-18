@@ -1,4 +1,4 @@
 {
-  "versionCode": 47,
-  "note": "9/4: Balance update, Card balance update, Fix expense filter UI bug, Update Jumio Max retry Text"
+  "versionCode": 48,
+  "note": "18/4: Fix Jumio Screen showing Session Expired when retrying."
 }
