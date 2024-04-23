@@ -1,4 +1,4 @@
 {
-  "versionCode": 49,
-  "note": "18/4: Fix Jumio Screen showing Session Expired when retrying. Fix hide cancelled card setting."
+  "versionCode": 50,
+  "note": "23/4: Show new card in request fund. Fix JumioScreen Crashing"
 }
