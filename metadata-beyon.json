@@ -1,4 +1,4 @@
 {
-  "versionCode": 52,
-  "note": "TB-271: use transition_flag to render activate card button"
+  "versionCode": 53,
+  "note": "Fix crash"
 }
