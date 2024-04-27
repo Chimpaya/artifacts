@@ -1,4 +1,4 @@
 {
-  "versionCode": 54,
-  "note": "26/4: Only allow 1 classification. Fix text overflow."
+  "versionCode": 55,
+  "note": "27/4: Transaction datetime format to UTC"
 }
