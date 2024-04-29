@@ -1,4 +1,4 @@
 {
-  "versionCode": 56,
-  "note": "29/4: Fix card action dialog"
+  "versionCode": 57,
+  "note": "29/4: Fix card action dialog. Fix biometric. Add max amount to manual expense"
 }
