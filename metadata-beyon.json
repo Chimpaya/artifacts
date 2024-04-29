@@ -1,4 +1,4 @@
 {
-  "versionCode": 55,
-  "note": "27/4: Transaction datetime format to UTC"
+  "versionCode": 56,
+  "note": "29/4: Fix card action dialog"
 }
