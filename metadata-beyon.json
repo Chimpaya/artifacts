@@ -1,4 +1,4 @@
 {
-  "versionCode": 62,
-  "note": "1/5: set request fund and expense amount max to 10e6\nForce classification amount to full\nchange text across app\nswitch confirm and cancel in the dialog"
+  "versionCode": 63,
+  "note": "1/5: sort cards changes, i2c error text change, request fund card dropdown fix"
 }
