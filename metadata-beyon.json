@@ -1,4 +1,4 @@
 {
-  "versionCode": 63,
-  "note": "1/5: sort cards changes, i2c error text change, request fund card dropdown fix"
+  "versionCode": 64,
+  "note": "2/5: Biometric fallback fix. Fix dialog alignment. Show change and get pin for not yet activated card."
 }
