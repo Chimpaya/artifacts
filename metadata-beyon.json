@@ -1,4 +1,4 @@
 {
-  "versionCode": 64,
+  "versionCode": 65,
   "note": "2/5: Biometric fallback fix. Fix dialog alignment. Show change and get pin for not yet activated card."
 }
