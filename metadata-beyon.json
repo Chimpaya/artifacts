@@ -1,4 +1,4 @@
 {
-  "versionCode": 72,
-  "note": "Network fix. GetPin"
+  "versionCode": 73,
+  "note": "Network fix. GetPin. Remove reissue for physical cards"
 }
