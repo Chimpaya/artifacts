@@ -1,4 +1,4 @@
 {
-  "versionCode": 85,
-  "note": "Prevent going back to kyc success screen"
+  "versionCode": 86,
+  "note": "Remove file permission prompt"
 }
