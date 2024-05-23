@@ -1,4 +1,4 @@
 {
-  "versionCode": 86,
-  "note": "Remove file permission prompt"
+  "versionCode": 87,
+  "note": "Navigation update: disable going back to jumio or otp screen"
 }
