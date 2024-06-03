@@ -1,4 +1,4 @@
 {
-  "versionCode": 93,
-  "note": "Crash\nLogin - Only BHD option\nManual Expense screen - Only BHD option\nInsights - add month-yr in graphs (last year)\nFAQ update\nFilter flush and working"
+  "versionCode": 94,
+  "note": "Default to UAT"
 }
