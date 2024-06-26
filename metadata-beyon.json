@@ -1,4 +1,4 @@
 {
-  "versionCode": 94,
-  "note": "Default to UAT"
+  "versionCode": 98,
+  "note": "Fix: Network info not visible on ios, request fund textinput adjustment."
 }
