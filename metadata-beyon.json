@@ -1,4 +1,4 @@
 {
-  "versionCode": 97,
-  "note": "Fix: Network info not visible on ios, request fund textinput adjustment."
+  "versionCode": 98,
+  "note": "I2C SDK update to version 2.4.0"
 }
