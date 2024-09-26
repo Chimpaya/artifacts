@@ -1,4 +1,4 @@
 {
-  "versionCode": 106,
-  "note": "Fix Photo upload"
+  "versionCode": 107,
+  "note": "Log out after idling for 10 min"
 }
