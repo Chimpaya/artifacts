@@ -1,4 +1,4 @@
 {
-  "versionCode": 107,
-  "note": "Log out after idling for 10 min"
+  "versionCode": 108,
+  "note": "Clear biometric after logout due to another device.\nIncrease idle time to 15min"
 }
